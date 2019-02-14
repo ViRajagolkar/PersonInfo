@@ -1,0 +1,51 @@
+.login-container{
+    margin-top: 10%;
+    margin-left: 35%;
+    border: 1px solid #ced4da;
+    border-radius: 15px;
+    padding: 25px;
+    background: #ced4da;
+}
+
+.login-container h2{
+    margin-top: 0px;
+}
+
+.navbar-default{
+    background-color: limegreen;
+    min-height: 70px;
+}
+
+.container-fluid{
+    padding-top: 8px;
+}
+
+.navbar-default .navbar-nav li a{
+    color:white;
+    font-size: 17px;
+}
+
+.main-content{
+    min-height: 500px;
+}
+
+.footer{
+    background-color: limegreen;
+    min-height: 20px;
+}
+
+.error{
+    margin-bottom: 5px;
+    text-align: center;
+    color: red;
+}
+
+.success{
+    margin-bottom: 5px;
+    text-align: center;
+    color: green;
+}
+
+.roletable{
+    margin-top: 20px;
+}
